@@ -1,0 +1,4 @@
+repository "GD205_EstherP_BoardGame 2026-10-12_17-12-12/GD205_EstherP_BoardGame@2476041878356@cloud"
+  path "/"
+    br "/main"
+    co "/main"
